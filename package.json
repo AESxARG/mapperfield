@@ -1,0 +1,15 @@
+{
+  "name": "mapperfield",
+  "version": "1.0.0",
+  "description": "",
+  "license": "AGPL-3.0-or-later",
+  "author": "operatorjen",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
